@@ -5,5 +5,12 @@ p{
     color: darksalmon;
 }
 caption{
-    color: goldenrod;
+    font-weight:bold;
+    padding: 10px;
+}
+th{
+    padding: 10px;
+}
+td{
+    padding: 10px;
 }
